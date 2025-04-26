@@ -1,0 +1,3 @@
+# Rundown
+## Welcome...
+...to **Ocean Afar**, a modpack centered around a long term extraction where you and a crew of people work to explore and colonize an ocean planet.
