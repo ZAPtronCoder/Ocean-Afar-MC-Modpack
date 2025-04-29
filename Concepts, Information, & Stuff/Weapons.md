@@ -10,6 +10,7 @@ Used for weapons with homing systems."*
 - Fire Rate: Slow
 - Damage: Barely
 - Ammo: Power Cell
+
 Fires a really fast (practically hitscan) projectile that inflicts Glowing for 1:00.
 ## Long Range
 `incomplete`
@@ -23,4 +24,5 @@ Fires four homimg rockets in quick succession."*
 - Fire Rate: *Fast*
 - Damage: *Lots*
 - Ammo: Scarab Missile (Large)
-Fires a salvo of 4 rockets that travel fast and arc. Rockets will home in on targets hit with the "Target Marker" (Glowing effect). Rockets create a larger explosion on hit with an entity, and will create a smaller explosion on contact with blocks.
+
+Fires a salvo of 4 rockets that travel fast and arc. Rockets will home in on targets hit with the "Target Marker" (Glowing effect). Rockets create a larger explosion on hit with an entity, and will create a smaller explosion on contact with blocks. Does not destroy blocks.
